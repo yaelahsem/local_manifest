@@ -1,6 +1,6 @@
 <manifest>
 	<remote name="git"
-	fetch="https://github.com"
+	fetch="https://github.com" />
 <project name="nangis-project/android_device_xiaomi_santoni" path="device/xiaomi/santoni" remote="git" revision="queso-4.9"/>
 <project name="nangis-project/android_device_xiaomi_msm8937-common" path="device/xiaomi/msm8937-common" remote="git" revision="queso"/>
 <project name="nangis-project/vendor_xiaomi" path="vendor/xiaomi" remote="git" revision="queso"/>
